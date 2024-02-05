@@ -1,3 +1,5 @@
+#GROUP PROJECT
+
 import tkinter as tk
 
 class CalculatorApp:
